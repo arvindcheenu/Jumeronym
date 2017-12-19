@@ -4,7 +4,7 @@
 
 A JavaFx 8 Application for generating numeronyms for any given string.
 
-![Screenshot](https://github.com/arvindcheenu/Jumeronym/blob/master/Screen%20Shot%202017-12-18%20at%209.09.32%20PM.png)
+![Screenshot](https://raw.githubusercontent.com/arvindcheenu/Jumeronym/master/Screen%20Shot%202017-12-18%20at%209.09.32%20PM.png)
 
 This application is built completely with Java with the UI View Built with JavaFx 8, the current mainstream standardisation for User interface design in Java. 
 
